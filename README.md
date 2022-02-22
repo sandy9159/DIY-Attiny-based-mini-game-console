@@ -55,7 +55,7 @@ Here is the list of component you need to build your Attiny 85 based game consol
 Download gerber file :- https://drive.google.com/file/d/1kmdUMyGZZynyx7tNjBdYXktDiOe2jRE6/view 
 
 
-Game console look too god in PCB so if you think to order PCB you can consider [JLCPCB](https://jlcpcb.com/IAT ) because
+Game console looks professional in PCB so if you are planning to order PCB you can consider [JLCPCB](https://jlcpcb.com/IAT ) because
 If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get coupons worth of 27$ from [JLCPCB](https://jlcpcb.com/IAT ).
